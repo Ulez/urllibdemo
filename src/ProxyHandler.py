@@ -2,7 +2,7 @@
 import urllib2
 
 # 构建代理；
-handler = urllib2.ProxyHandler({"http": "114.113.126.87"})
+handler = urllib2.ProxyHandler({"http": "114.113.126.87"})#需要用户密码时：{"http": "user:password@114.113.126.87"}
 nullhandler = urllib2.ProxyHandler({})
 opener = urllib2.build_opener(handler)
 request = urllib2.Request("http://www.baidu.com")
