@@ -1,0 +1,103 @@
+语言:Python
+时间：2018-03-29 00:41:36
+
+1:https://github.com/orsinium/textdistance
+  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface.
+  stars:526
+
+2:https://github.com/marcosfede/algorithms
+  Solved algorithms and data structures problems in many languages
+  stars:685
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:31,681
+
+4:https://github.com/taehoonlee/tensornets
+  High level network definitions with pre-trained weights in TensorFlow
+  stars:379
+
+5:https://github.com/IDAConnect/IDAConnect
+  [WIP] Collaborative Reverse Engineering plugin for IDA Pro &amp; Hex-Rays
+  stars:127
+
+6:https://github.com/hoveeman/music-cards
+  Use RFID to call a curl command to homeassistant to play a Google Play playlist
+  stars:227
+
+7:https://github.com/NVIDIA/FastPhotoStyle
+  Style transfer, deep learning, feature transform
+  stars:7,791
+
+8:https://github.com/FutunnOpen/futuquant
+  富途量化平台 API
+  stars:415
+
+9:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:47,653
+
+10:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,517
+
+11:https://github.com/minimaxir/person-blocker
+  Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+  stars:100
+
+12:https://github.com/yoda-pa/yoda
+  Wise and powerful personal assistant, inside your terminal
+  stars:339
+
+13:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,204
+
+14:https://github.com/ashnkumar/sketch-code
+  Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
+  stars:613
+
+15:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:24,683
+
+16:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:26,941
+
+17:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:21,799
+
+18:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+  stars:29,239
+
+19:https://github.com/hindupuravinash/the-gan-zoo
+  A list of all named GANs!
+  stars:2,049
+
+20:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:34,846
+
+21:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,237
+
+22:https://github.com/secdev/scapy
+  Scapy: the Python-based interactive packet manipulation program &amp; library. Supports Python 2 &amp; Python 3.
+  stars:2,268
+
+23:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,313
+
+24:https://github.com/mm-mansour/Fast-Pandas
+  Benchmark for different operations in pandas against various dataframe sizes.
+  stars:520
+
+25:https://github.com/UltimateHackers/hue
+  Hue will help you to print awesomely in terminals.
+  stars:982
+

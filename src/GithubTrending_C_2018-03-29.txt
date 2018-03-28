@@ -1,0 +1,103 @@
+语言:C
+时间：2018-03-29 00:40:06
+
+1:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:6,638
+
+2:https://github.com/lionsoul2014/ip2region
+  准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
+  stars:2,496
+
+3:https://github.com/ufrisk/pcileech
+  Direct Memory Access (DMA) Attack Software
+  stars:956
+
+4:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:56,936
+
+5:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,398
+
+6:https://github.com/pwarren/rtl-entropy
+  An entropy generator using SDR peripherals, including rtl-sdr and BladeRF
+  stars:252
+
+7:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:16,861
+
+8:https://github.com/citusdata/postgresql-topn
+  TopN is an open source PostgreSQL extension that returns the top values in a database according to some criteria
+  stars:38
+
+9:https://github.com/jerryscript-project/jerryscript
+  Ultra-lightweight JavaScript engine for the Internet of Things.
+  stars:2,911
+
+10:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,206
+
+11:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,576
+
+12:https://github.com/215566435/Fz-node
+  road to v8 &amp; node
+  stars:34
+
+13:https://github.com/julycoding/The-Art-Of-Programming-By-July
+  本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+  stars:13,468
+
+14:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,015
+
+15:https://github.com/timescale/timescaledb
+  An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+  stars:4,355
+
+16:https://github.com/MiCode/Xiaomi_Kernel_OpenSource
+  Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(…
+  stars:1,593
+
+17:https://github.com/dokan-dev/dokany
+  User mode file system library for windows with FUSE Wrapper
+  stars:2,128
+
+18:https://github.com/ggreer/the_silver_searcher
+  A code-searching tool similar to ack, but faster.
+  stars:14,805
+
+19:https://github.com/FFmpeg/FFmpeg
+  mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,242
+
+20:https://github.com/swoole/swoole-src
+  Event-driven asynchronous &amp; concurrent &amp; coroutine networking engine with high performance for PHP.
+  stars:8,300
+
+21:https://github.com/numpy/numpy
+  Numpy main repository
+  stars:6,786
+
+22:https://github.com/Tencent/wcdb
+  WCDB is a cross-platform database framework developed by WeChat.
+  stars:5,544
+
+23:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:7,852
+
+24:https://github.com/nginx/nginx
+  An official read-only mirror of <a href="http://hg.nginx.org/nginx/" rel="nofollow">http://hg.nginx.org/nginx/</a> which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see <a href="http://nginx.org/en/docs/contributing_changes.html" rel="nofollow">http://nginx.org/en/docs/contributing_changes.html</a>
+  stars:5,507
+
+25:https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ
+  An official read-only mirror of <a href="http://hg.nginx.org/nginx/" rel="nofollow">http://hg.nginx.org/nginx/</a> which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see <a href="http://nginx.org/en/docs/contributing_changes.html" rel="nofollow">http://nginx.org/en/docs/contributing_changes.html</a>
+  stars:5,507
+
